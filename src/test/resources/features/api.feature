@@ -1,4 +1,4 @@
-Feature: API Testing with Rest Assured and Cucumber
+Feature: API Testing con Rest Assured y Cucumber
 
   Scenario: Crear token de acceso con metodo POST
     Given Configuro la solicitud para el endpoint auth
