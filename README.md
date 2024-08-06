@@ -18,7 +18,7 @@ Este proyecto utiliza un stack compuesto por Gherkin, Cucumber, Java y Rest Assu
 - Maven 3.6.3 o superior
 
 ## Herramientas Utilizadas
-## Gherkin
+### Gherkin
 Por qué Gherkin:
 Gherkin se utiliza para escribir los escenarios de pruebas en un lenguaje entendible por todos los stakeholders (incluidos los no técnicos). Permite describir el comportamiento esperado de la API en un formato de Given-When-Then.
 
