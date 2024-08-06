@@ -1,4 +1,4 @@
-# Proyecto de Pruebas Automatizadas de API
+# Pruebas Automatizadas la API RESTFYL - BOOKER
 
 Este proyecto implementa un framework de pruebas automatizadas para APIs utilizando Gherkin, Cucumber, Java y Rest Assured. El objetivo es proporcionar una estructura robusta y extensible para validar las funcionalidades de una API RESTful.
 
