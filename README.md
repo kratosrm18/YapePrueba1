@@ -22,14 +22,14 @@ Este proyecto utiliza un stack compuesto por Gherkin, Cucumber, Java y Rest Assu
 Por qué Gherkin:
 Gherkin se utiliza para escribir los escenarios de pruebas en un lenguaje entendible por todos los stakeholders (incluidos los no técnicos). Permite describir el comportamiento esperado de la API en un formato de Given-When-Then.
 
-## Cucumber
+### Cucumber
 Por qué Cucumber:
 Cucumber interpreta los escenarios escritos en Gherkin y los ejecuta. Facilita la vinculación de las descripciones de Gherkin con el código de pruebas en Java, proporcionando un marco de pruebas BDD (Behavior Driven Development).
 
-## Java
+### Java
 Por qué Java:
 Java es un lenguaje de programación robusto y ampliamente utilizado. Su uso en este proyecto permite aprovechar una rica colección de bibliotecas y frameworks, así como un sólido soporte comunitario y herramientas de desarrollo.
 
-## Rest Assured
+### Rest Assured
 Por qué Rest Assured:
 Rest Assured simplifica la validación de APIs RESTful en Java. Ofrece una sintaxis intuitiva y fluida para construir y enviar solicitudes HTTP, así como para validar respuestas, facilitando la automatización de pruebas de APIs.
